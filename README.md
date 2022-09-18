@@ -3,10 +3,10 @@
 ## Getting Stared
 
 :::Project Details:::
-Language: NodeJs
-FrameWork: SailsJs
-Database: MongoDB
-ORM: Sails Waterline ORM
+ - Language: NodeJs
+ - FrameWork: SailsJs
+ - Database: MongoDB
+- ORM: Sails Waterline ORM
 
 :::Packages/Features:::
  - Validation: Joi
